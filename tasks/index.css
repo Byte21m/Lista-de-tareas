@@ -122,7 +122,7 @@ form {
   padding-bottom: 1rem; 
   
   /* 2. Añadimos la línea separadora */
-  border-bottom: 2px solid var(--line-black);
+  border-bottom: 1px solid var(--text-color);
   
 
 }

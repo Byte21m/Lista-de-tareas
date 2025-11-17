@@ -1,8 +1,8 @@
 # TasksApp (Lista de Tareas)
 
-Un proyecto frontend simple pero completo para una aplicación de lista de tareas (To-Do list). Este proyecto incluye una página de inicio (landing page) y la aplicación principal para gestionar las tareas.
+Un proyecto frontend simple pero completo para una aplicación de lista de tareas (To-Do list). Este proyecto incluye una página de inicio y la aplicación principal para gestionar las tareas.
 
-El proyecto está construido con HTML semántico y CSS moderno, enfocado en un diseño limpio, responsivo y con soporte para temas claro y oscuro.
+El proyecto está construido con HTML  y CSS moderno, enfocado en un diseño limpio, responsivo y con soporte para temas claro y oscuro.
 
 ## 🚀 Características Principales
 

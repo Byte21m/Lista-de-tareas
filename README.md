@@ -6,7 +6,7 @@ El proyecto está construido con HTML  y CSS moderno, enfocado en un diseño lim
 
 ## 🚀 Características Principales
 
-* **Página de Inicio:** Una landing page de bienvenida (`index.html`) que introduce la aplicación y enlaza a la herramienta principal.
+* **Página de Inicio:** Una pagina de bienvenida (`index.html`) que introduce la aplicación y enlaza a la herramienta principal.
 * **Gestión de Tareas:** Funcionalidad visual completa para:
     * **Crear Tareas:** Un formulario para añadir nuevas tareas.
     * **Editar Tareas:** Botón de edición en cada ítem.

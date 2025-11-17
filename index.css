@@ -103,14 +103,14 @@ nav {
 }
 
 #main-desc-btn:active {
-    background-color: #e36199;
-    border-color: #e36199;
+    background-color: blue;
+    border-color: blue;
     color: white;
 }
 
 #main-desc-btn:hover {
-    background-color: #e36199;
-    border-color: #e36199;
+    background-color: blue;
+    border-color: blue;
     color: white;
 }
 
@@ -150,4 +150,5 @@ nav {
         font-size: 1.4rem;
     }
 }
+
 

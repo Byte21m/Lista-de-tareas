@@ -14,4 +14,6 @@ El proyecto está construido con HTML semántico y CSS moderno, enfocado en un d
 * **Validación:** Estilos preparados para un mensaje de error que evita añadir tareas vacías.
 * **Tema Claro y Oscuro:** Utiliza variables CSS y la función `light-dark()` para adaptarse automáticamente al tema del sistema operativo del usuario.
 * **Diseño Responsivo:** La interfaz se adapta fluidamente a pantallas de escritorio, tablets y móviles usando Flexbox y Media Queries.
-*
+
+Enlace de la pagina: 
+https://byte21m.github.io/Lista-de-tareas/
